@@ -2,7 +2,6 @@
 
 #Hosting Link:-https://itsakash1285.github.io/Student_app-with_CRUD_operations/
 
-![Screenshot (57)](https://github.com/itsAkash1285/Student_app-with_CRUD_operations/assets/111186744/daea0a60-925e-47a6-89a3-e1f222b1b277)
 ![Screenshot (58)](https://github.com/itsAkash1285/Student_app-with_CRUD_operations/assets/111186744/b69f0408-6570-41eb-82db-6bf86b5792e4)
 ![Screenshot (59)](https://github.com/itsAkash1285/Student_app-with_CRUD_operations/assets/111186744/a7a95ec0-5bae-4a88-ac21-13bf2fdff115)
 ![Screenshot (60)](https://github.com/itsAkash1285/Student_app-with_CRUD_operations/assets/111186744/6dfcd6af-ae76-489b-91af-e9c84f542cb2)
